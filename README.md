@@ -1,8 +1,8 @@
 # what-im-learning
 
-- scraping with puppeteer
-- building my own bittorrent client (check out my repo: https://github.com/kevinsourcode/my-own-torrent-client)
+- https://github.com/rust-lang/rustlings
+- https://www.youtube.com/watch?v=jJVAla0dWJoWL (Clean Architecture in Next.Js !?!?!)
 
 # what-im-reading
 
-- [O'Reilly - Site Reliability Engineering ](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/)
+- Meditations by Marcus Aurelius
